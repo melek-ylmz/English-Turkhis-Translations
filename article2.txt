@@ -1,0 +1,12 @@
+# Day 2: Translated first 2 paragraphs of "Social Engineering in Cybersecurity"
+# Focused on social engineering attacks,phishing, and human factor in cybersecurity
+
+## English
+Social engineering attacks exploit human psychology to bypass security measures. Attackers often use phishing emails or fake websites to trick users into revealing sensitive information. Understanding these methods is essential to develop effective defense strategies.
+
+Organizations must educate employees about these threats and implement multi-layered security protocols. Combining technical solutions with human awareness reduces the risk of successful attacks.
+
+## Turkish
+Sosyal mühendislik saldırıları, güvenlik önlemlerini aşmak için insan psikolojisinden yararlanır. Saldırganlar genellikle kullanıcıları hassas bilgileri açıklamaya ikna etmek için oltalama e-postaları veya sahte web siteleri kullanır. Bu yöntemleri anlamak, etkili savunma stratejileri geliştirmek için gereklidir.
+
+Kuruluşlar, çalışanlarını bu tehditler hakkında eğitmeli ve çok katmanlı güvenlik protokolleri uygulamalıdır. Teknik çözümleri insan farkındalığı ile birleştirmek, başarılı saldırı riskini azaltır.
